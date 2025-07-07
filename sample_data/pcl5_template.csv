@@ -1,0 +1,11 @@
+patient_id,age,gender,trauma_type,trauma_severity,pcl5_1_intrusive_memories,pcl5_2_distressing_dreams,pcl5_3_flashbacks,pcl5_4_emotional_distress,pcl5_5_physical_reactions,pcl5_6_avoid_memories,pcl5_7_avoid_reminders,pcl5_8_trauma_memory_problems,pcl5_9_negative_beliefs_self,pcl5_10_negative_beliefs_world,pcl5_11_blame_self_others,pcl5_12_negative_emotions,pcl5_13_diminished_interest,pcl5_14_detachment,pcl5_15_positive_emotions,pcl5_16_irritability,pcl5_17_reckless_behavior,pcl5_18_hypervigilance,pcl5_19_exaggerated_startle,pcl5_20_concentration_problems,cortisol_morning,cortisol_evening,heart_rate_rest,blood_pressure_systolic,blood_pressure_diastolic,time_since_trauma_months,social_support_score,education_years,employment_status,previous_trauma_exposure,family_history_mental_health,current_medications,alcohol_use,substance_use,therapy_history,ptsd_diagnosis
+P001,25,F,Combat,8,4,4,3,4,3,3,4,3,4,3,2,4,3,4,2,3,2,4,3,3,18.5,3.2,85,130,80,12,6,16,1,1,1,0,2,0,1,1
+P002,34,M,Motor Vehicle Accident,6,2,3,2,3,3,4,3,2,2,2,1,3,2,3,3,2,1,3,2,2,12.8,2.8,78,125,75,6,8,14,1,0,0,0,1,0,0,0
+P003,45,F,Natural Disaster,9,4,4,4,4,4,4,4,4,4,4,3,4,4,4,1,4,3,4,4,4,19.2,4.1,92,140,85,24,4,12,0,1,1,1,3,1,1,1
+P004,28,M,Assault,7,3,3,3,4,3,3,3,3,3,3,2,3,3,3,2,3,2,3,3,3,16.1,3.5,88,135,82,8,7,16,1,1,0,0,2,0,0,1
+P005,39,F,Sexual Assault,9,4,4,4,4,4,4,4,4,4,4,4,4,4,4,1,4,3,4,4,4,20.1,4.3,95,145,90,18,3,14,1,1,1,1,3,1,1,1
+P006,31,M,Military Combat,8,3,4,3,3,3,3,3,3,3,3,2,3,3,3,2,3,2,3,3,3,15.9,3.1,82,128,78,15,6,13,1,1,1,0,2,0,1,1
+P007,42,F,Workplace Violence,5,2,2,2,3,2,3,2,2,2,2,1,2,2,2,3,2,1,2,2,2,11.5,2.5,75,120,70,4,9,16,1,0,0,0,1,0,0,0
+P008,29,M,Terrorism,9,4,4,4,4,4,4,4,4,4,4,3,4,4,4,1,4,4,4,4,4,21.3,4.5,98,150,95,6,2,15,1,1,1,1,4,1,1,1
+P009,36,F,Medical Trauma,6,3,3,2,3,3,3,3,2,3,2,2,3,2,3,2,2,1,3,2,3,14.2,3.0,80,132,77,10,7,17,1,0,1,1,1,0,0,0
+P010,33,M,Childhood Abuse,8,3,4,3,4,3,3,4,3,4,3,3,4,3,4,2,3,2,3,3,3,17.8,3.8,90,138,83,240,5,12,0,1,1,0,3,1,1,1

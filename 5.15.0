@@ -1,0 +1,4 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: plotly in c:\users\mahes\appdata\roaming\python\python313\site-packages (6.1.2)
+Requirement already satisfied: narwhals>=1.15.1 in c:\users\mahes\appdata\roaming\python\python313\site-packages (from plotly) (1.41.0)
+Requirement already satisfied: packaging in c:\users\mahes\appdata\roaming\python\python313\site-packages (from plotly) (24.2)
